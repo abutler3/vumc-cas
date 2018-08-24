@@ -1,5 +1,5 @@
 {
-  "name": "abutler3/cas",
+  "name": "drupal/cas",
   "description": "Provides CAS authentication for Drupal, custom for VUMC Barista.",
   "type": "drupal-custom-module",
   "homepage": "http://drupal.org/project/cas",
